@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/reminder-app/static/css/main.b8d14890.chunk.css",
-    "main.js": "/reminder-app/static/js/main.db2641e0.chunk.js",
-    "main.js.map": "/reminder-app/static/js/main.db2641e0.chunk.js.map",
-    "runtime-main.js": "/reminder-app/static/js/runtime-main.d6433e2b.js",
-    "runtime-main.js.map": "/reminder-app/static/js/runtime-main.d6433e2b.js.map",
-    "static/css/2.68b64559.chunk.css": "/reminder-app/static/css/2.68b64559.chunk.css",
-    "static/js/2.d39ae829.chunk.js": "/reminder-app/static/js/2.d39ae829.chunk.js",
-    "static/js/2.d39ae829.chunk.js.map": "/reminder-app/static/js/2.d39ae829.chunk.js.map",
-    "static/js/3.5a8fd6f7.chunk.js": "/reminder-app/static/js/3.5a8fd6f7.chunk.js",
-    "static/js/3.5a8fd6f7.chunk.js.map": "/reminder-app/static/js/3.5a8fd6f7.chunk.js.map",
-    "index.html": "/reminder-app/index.html",
-    "static/css/2.68b64559.chunk.css.map": "/reminder-app/static/css/2.68b64559.chunk.css.map",
-    "static/css/main.b8d14890.chunk.css.map": "/reminder-app/static/css/main.b8d14890.chunk.css.map",
-    "static/js/2.d39ae829.chunk.js.LICENSE.txt": "/reminder-app/static/js/2.d39ae829.chunk.js.LICENSE.txt"
+    "main.css": "/reminderApp/static/css/main.b8d14890.chunk.css",
+    "main.js": "/reminderApp/static/js/main.0a839dfd.chunk.js",
+    "main.js.map": "/reminderApp/static/js/main.0a839dfd.chunk.js.map",
+    "runtime-main.js": "/reminderApp/static/js/runtime-main.80d4965e.js",
+    "runtime-main.js.map": "/reminderApp/static/js/runtime-main.80d4965e.js.map",
+    "static/css/2.68b64559.chunk.css": "/reminderApp/static/css/2.68b64559.chunk.css",
+    "static/js/2.06f5f129.chunk.js": "/reminderApp/static/js/2.06f5f129.chunk.js",
+    "static/js/2.06f5f129.chunk.js.map": "/reminderApp/static/js/2.06f5f129.chunk.js.map",
+    "static/js/3.986ade8a.chunk.js": "/reminderApp/static/js/3.986ade8a.chunk.js",
+    "static/js/3.986ade8a.chunk.js.map": "/reminderApp/static/js/3.986ade8a.chunk.js.map",
+    "index.html": "/reminderApp/index.html",
+    "static/css/2.68b64559.chunk.css.map": "/reminderApp/static/css/2.68b64559.chunk.css.map",
+    "static/css/main.b8d14890.chunk.css.map": "/reminderApp/static/css/main.b8d14890.chunk.css.map",
+    "static/js/2.06f5f129.chunk.js.LICENSE.txt": "/reminderApp/static/js/2.06f5f129.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d6433e2b.js",
+    "static/js/runtime-main.80d4965e.js",
     "static/css/2.68b64559.chunk.css",
-    "static/js/2.d39ae829.chunk.js",
+    "static/js/2.06f5f129.chunk.js",
     "static/css/main.b8d14890.chunk.css",
-    "static/js/main.db2641e0.chunk.js"
+    "static/js/main.0a839dfd.chunk.js"
   ]
 }
